@@ -1,0 +1,850 @@
+Microsoft Band
+Microsoft HoloLens
+Microsoft Lumia
+Microsoft Surface
+Xbox
+Xbox
+Xbox 360
+Xbox One
+Xbox Series S 
+Xbox Series X
+Zune
+Microsoft Kin
+Microsoft LifeCam
+Microsoft LifeChat
+Azure
+GitHub
+JScript
+Microsoft BASIC
+Microsoft Small Basic
+Microsoft XNA
+Silverlight
+TypeScript
+VBScript
+Visual Studio
+Visual Studio Express
+Visual Basic
+Visual Basic for Applications
+Visual C++
+Visual C#
+Visual Studio Code
+Windows API
+Windows SDK
+Xbox Development Kit
+Microsoft Access
+Microsoft Excel
+Microsoft OneNote
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft Project
+Microsoft Publisher
+Microsoft Visio
+OneDrive
+Microsoft Sway
+Microsoft Word
+Microsoft Forms
+Microsoft Teams
+Microsoft SharePoint
+Microsoft To-Do
+Skype
+Yammer
+Microsoft Lens
+Bing
+Encarta
+LinkedIn
+Microsoft Developer Network
+MSN
+Microsoft 365
+Microsoft Math Solver
+Office Online
+Outlook.com
+Skype
+Windows Essentials
+Microsoft Family Safety
+OneDrive
+Windows Photo Gallery
+Yammer
+Microsoft 365
+Xbox Game Pass
+Xbox Game Pass Ultimate
+Xbox Live Gold
+Microsoft Anti-Virus for Windows
+Microsoft Security Essentials
+Microsoft Defender
+Halo series
+Microsoft Flight Simulator series
+Microsoft Mahjong
+Minesweeper
+Microsoft Solitaire Collection
+Microsoft Ultimate Word Games
+Windows 11
+Windows 10
+Windows 8.1
+Windows 8
+Windows 7
+Windows Vista
+Windows XP
+Windows ME
+Windows 2000
+Windows 98
+Windows NT 4.0
+Windows 95
+Windows NT 3.51
+Windows NT 3.5
+Windows 3.2
+Windows NT 3.1
+Windows 3.1
+Windows 3.0
+Windows 2.11
+Windows 2.1
+Windows 2.03
+Windows 1.0
+Windows Server 2019	
+Windows Server 2016	
+Windows Server 2012 R2	
+Windows Server 2012	
+Windows Server 2008 R2	
+Windows Server 2008	
+Windows Server 2003 R2	
+Windows Server 2003	
+Windows 2000	
+Windows NT 4.0	
+Windows NT 3.51	
+Windows NT 3.5
+Windows 10 Mobile
+Windows Phone 8.1
+Windows Phone 8
+Windows Phone 7.8
+Windows Phone 7.5
+Windows Phone 7
+Windows Mobile 6.5
+Windows Mobile 6.1
+Windows Mobile 6.0
+Windows Mobile 5.0
+Windows Mobile 2003
+Pocket PC 2002
+Pocket PC 2000
+Windows CE 1.0
+Windows CE 2.0
+Windows CE 2.1
+Windows CE 2.11
+Windows CE 2.12
+Windows CE 3.0
+Windows CE 4.0
+Windows CE 4.1
+Windows CE 4.2
+Windows CE 5.0
+Windows Embedded CE 6.0
+Windows Embedded Compact 7
+Windows Embedded Compact 2013
+Windows NT 4.0 Embedded
+Windows XP Embedded
+Windows XP for Embedded Systems
+Windows Vista Embedded
+Windows Server 2003 Embedded
+Windows Embedded for Point of Service (WEPOS)
+Windows Embedded POSReady 2009
+Windows Embedded POSReady 7
+Windows Embedded 8 Industry
+Windows Embedded 8.1 Industry
+Auto PC
+Windows CE for Automotive
+Windows Automotive 4.2
+Windows Automotive 5.0
+Windows Embedded Automotive 7
+Windows XP Media Center Edition
+Windows XP Tablet PC Edition
+Windows RT
+Windows RT 8.1
+.NET
+ATG Commerce Applications
+Accelerate for Midsize Companies
+Access Management
+Accounts Payable
+Accounts Payable
+Accounts Receivable
+Accounts Receivable
+Aconex
+Active Data Guard
+Adaptive Query Optimization
+AddThis
+Advanced Analytics
+Advanced Benefits
+Advanced Collections
+Advanced Compression
+Advanced Cost Accounting
+Advanced Inbound Telephony
+Advanced Inventory Management
+Advanced Queuing
+Advanced Pricing
+Advanced Pricing
+Advanced Pricing
+Advanced Product Catalog Product Lifecycle Management(Oracle E-Business Suite)
+Advanced Real Estate Forecasting
+Advanced Security
+Advanced Stock Valuation
+Advertising (Oracle Data Cloud)
+Advertising Analytics
+Advertising and Customer Experience (CX)
+Advertising Measurement
+Advertising Outcomes
+Advertising Reach
+Agile Product Lifecycle Management
+Agile Product Lifecycle Management for Process
+Agreement Management
+Application Foundation. See Advanced Cost Accounting
+Airlines Data Model
+Analytical SQL and Statistical Functions
+Apiary
+Application Continuity
+Application Express (APEX), Low Code
+Application Integration
+Application Quality Management
+Asset Lifecycle Management
+Asset Lifecycle Management
+Australia/New Zealand Payroll
+Audience Data Solutions
+Audience Segmentation
+Audience Segmentation3
+Audit Vault and Database Firewall
+Automatic Data Optimization
+Automatic Storage Manager (ASM)
+Autonomous Data Warehouse
+Autonomous Database
+Autonomous Database on Exadata Cloud@Customer
+Autonomous JSON Database
+Autonomous Transaction Processing
+AutoVue 2D Professional
+AutoVue 3D Professional Advanced
+AutoVue EDA Professional
+AutoVue Electro-Mechanical Professional
+AutoVue Enterprise Visualization
+AutoVue Office
+AutoVue Web Version
+Banking Contact Center Solutions
+Banking Digital Experience
+Banking Corporate Lending
+Banking Enterprise Originations
+Banking Payments
+Banking Enterprise Product Manufacturing
+Banking Platform
+Base Configurator
+Berkeley DB
+BidContender
+Big Data
+Big Data Appliance
+Big Data Cloud Service
+Big Data Connectors
+Big Data Discovery
+Big Data Platform
+Big Data Preparation Cloud Service
+Big Data SQL
+Big Data Spatial and Graph
+Billing and Revenue Management
+Blockchain Platform Enterprise Edition
+Blockchain Platform Cloud Service
+Branch Scripting
+Bulk Stock Inventory
+Bulk Stock Management
+Business Analytics
+Business Intelligence Warehouse Builder
+Business Process Management Suite
+Buyer Workspace
+CDD/Repository
+CRM. See Customer Relationship Management
+Canadian Payroll
+Canadian Payroll
+Campus Solutions
+Cash Management
+Case Management
+Channel Revenue Management
+Cloud Access Security Broker (CASB) Cloud Service
+Cloud Computing
+Cloud File Storage
+Cloud File System
+Cloud Infrastructure API Gateway
+Cloud Machine
+Cloud Management Pack
+Cloud Marketplace
+Cloud Service
+Clusterware
+Codasyl DBMS
+Coherence
+Commerce (B2B)
+Commerce (B2C)
+Commerce
+Communciations Customer Experience
+Communications Data Model
+Configurator
+Consulting
+Contact Center Analytics
+Content Management
+Content Management
+Contextual Intelligence
+Contract Service Billing
+Convergent Charging Controller
+Corente Cloud Services Exchange
+Oracle in Corporate Banking
+Credit Management
+CrowdTwist Loyalty and Engagement
+Crystal Ball
+Customer Data Management (CDM)
+Customer Experience Analytics
+Customer Hub, Master Data Management
+Customer Order Management
+Customer Relationship Management
+Customer Relationship Management
+Customer Self Service
+CX Platform
+Data Center Transformation
+DataFox Data Management
+Data Guard
+Data Integrator
+Data Integrator for Big Data
+Data Masking and Subsetting
+Data Mining
+Data Model
+Data Pump
+Data Warehouse
+Data Warehousing
+Data as a Service for Marketing
+Data as a Service for Sales
+Database
+Database 12c
+Database 18c
+Database Automatic Storage Management (ASM)
+Database Cloud Services
+Database Enterprise Edition
+Database Express Edition (XE)
+Database Appliance
+Database Appliance X7-2-HA
+Database Appliance X7-2M
+Database Appliance X7-2S
+Database High Availability
+Database In-Memory
+Database Machine
+Database Migration
+Database Mobile Server
+Database Options
+Database Security
+Database Security Assessment Tool
+Database Web Services
+Diagnostics Pack
+Database Vault
+Demand Scheduling Execution
+Depot Repair
+Developer Studio
+Diameter Signaling Router
+Digital Assistant Platform
+Digital Customer Service
+Directory Server Enterprise Edition
+Directory Services
+Distribution Management
+Documaker
+Documaker Enterprise Edition
+Documaker Standard Edition
+Dyn Web Application Security Suite
+Dyn Bot Manager included in former Dyn Web Application Security Suite
+Dyn Web Application Firewall (WAF)
+Dyn DDoS Protection
+Dyn Malware Protection
+Dynamic Catalog
+E-Business Suite
+EAGLE
+Edition-Based Redefinition
+Elastic Charging Engine
+Eloqua
+Eloqua Marketing Automation
+Email Center
+Email Marketing
+Embeddable Java
+Employee Self Service
+Enterprise 2.0
+Enterprise Data Quality
+Enterprise Edition
+Enterprise Manager
+Enterprise Manager Plug-in for Oracle ZFS Storage Appliance
+Enterprise Manager Ops Center
+Enterprise Pack for Eclipse
+Enterprise Performance Management
+Enterprise Portal
+Enterprise Resource Planning Cloud
+Oracle Enterprise Session Border Controller
+Enterprise Single Sign-On
+EnterpriseOne Customer Relationship Management. See Customer Relationship Management
+Equipment Cost Analysis
+Oracle Essbase, Oracle Business Intelligence
+Evolved Communications Application Server
+Oracle Exadata Database Machine X8
+Exadata Management
+Expense Management
+eEvents, Siebel
+eMarketing, Siebel
+FLEXCUBE Corporate Lending
+FLEXCUBE Enterprise Limits and Collateral Management
+FLEXCUBE Investor Servicing
+FLEXCUBE Islamic Banking
+FLEXCUBE Universal Banking
+Field Service
+Field Service
+Field Service, Siebel
+Financial Management
+Financial Management
+Financials Centralized Solution Set
+Financial Services Anti Money Laundering
+Financial Services Broker Compliance
+Financial Services CECL Solution
+Financial Services Customer Experience
+Financial Services Data Governance for US Regulatory Reporting
+Financial Services FRTB Solution
+Financial Services IFRS 9 Solution
+Financial Services Institutional Performance Analytics
+Financial Services Retail Performance Analytics
+Financial Services Regulatory Reporting Solution
+Financial Services Trading Compliance
+Financial
+Financing, Oracle Financing
+Fixed Asset Accounting
+Flashback
+Flashback Data Archive
+Forms, Oracle Developer Suite
+Fraud Monitor
+Oracle Fujitsu SPARC M12-1
+Oracle Fujitsu SPARC M12-2
+Oracle Fujitsu SPARC M12-2S
+Fujitsu M10-1 Server
+General Ledger
+General Ledger
+GlassFish Server
+Global Data Services
+Global Trade Management Cloud Service
+Globalization
+GoldenGate
+GoldenGate Cloud Service
+Government Customer Experience
+GraalVM Enterprise Edition
+Grower Pricing and Payments
+Health Framework
+Health Insurance Enterprise Rating
+Health Insurance Solutions
+Health Sciences Empirica Signal
+Health Sciences Empirica Study On Demand
+Health Sciences Empirica Topics
+Health Sciences InForm GTM
+Healthcare Foundation
+Healthcare Transaction Base
+Heat Map
+HelpDesk, Siebel
+High Tech, Manufacturing, and Automotive Customer Experience
+Homebuilder Management
+Hospitality Dining Management
+Hospitality Distribution Cloud Service
+Hospitality e7 Point of Sale
+Hospitality Fleet Management
+Hospitality Gift and Loyalty
+Hospitality Hotel Mobile
+Hospitality Inventory Management
+Hospitality Kitchen Display Systems
+Hospitality Labor Management
+Hospitality OPERA Booking Engine
+Hospitality OPERA Central Sales Cloud Service
+Hospitality OPERA Cloud Service
+Hospitality OPERA Customer Loyalty Tracking Cloud Service
+Hospitality OPERA Reporting and Analytics
+Hospitality OPERA Reservation System GDS Interface Cloud Service
+Hospitality OPERA Room Reservations Cloud Service   
+Hospitality OPERA Sales and Catering Cloud Service
+Hospitality OPERA Vacation Ownership System
+Hospitality OPERA Web Suite System
+Hospitality Reporting and Analytics
+Hospitality RES 3700
+Hospitality Shipboard Property Management
+Hospitality Simphony
+Hospitality Simphony First Edition
+Hospitality Simphony Venue Management
+Hospitality Suite8 Hotel Property (Available in EMEA and JAPAC only)
+Hospitality Suites Management
+Hospitality Web Booking Engine Cloud Service
+Hospitality Web Proposal Cloud Service
+Hospitality XBRi Loss Prevention
+Homebuilder Management
+Human Capital Management, E-Business Suite
+Human Capital Management
+Human Capital Management
+Human Capital Management Cloud
+Human Resources, Human Capital Management
+Hyperion Capital Expense Planning
+Hyperion Financial Management
+Hyperion Performance Management Applications
+IT Infrastructure
+Identity Cloud Service
+Identity Governance
+Identity Management
+Incentive Compensation
+Industry Customer Experience Solutions
+Infinity Behavioral Intelligence
+Intelligence. See DBI(Daily Business Intelligence)
+Intelligent Advisor
+Instantis EnterpriseTrack
+Insurance Bancassurance Solution
+Insurance Calculation Engine
+Insurance Data Exchange
+Insurance Insbridge Enterprise Rating
+Insurance Policy Administration for Life and Annuity
+Intelligent Track and Trace
+Insurance Revenue Management and Billing
+Interaction Center
+Interactive Session Recorder
+Internet of Things
+Inventory Management
+Inventory Management
+IP Service Activator
+iReceivables
+iSupport
+JDBC
+JSON Document Store
+Java
+Java DB
+Java Card
+Java in Oracle Database
+Java ME for Embedded
+Java ME SDK
+Java Platform Enterprise Edition
+Java Platform Micro Edition
+Java Platform Standard Edition
+Java SE Advanced and Java SE Suite
+Java SE for Embedded
+Java TV
+Java Wireless Client
+JRockit
+JD Edwards EnterpriseOne
+JD Edwards World
+JDeveloper
+Key Vault
+Knowledge Management
+LWUIT
+Label Security
+Linux
+Loader For Hadoop
+Logistics
+Oracle Low Code
+Loyalty Analytics
+Loyalty Management, Siebel
+MICROS Tablet 700
+MICROS Workstation 6
+Manageability
+Manager Self Service
+Manufacturing
+Manufacturing Management
+MapViewer
+Marketing (B2B)
+Marketing (B2C)
+Marketing
+Marketing
+Marketing, Siebel
+Marketing Analytics
+Marketing Resource Management, Siebel
+Master Data Management
+Maxymiser Testing and Optimization
+MetaSolv Solution
+Middleware
+Migration Technologies
+Mobile Field Service
+Mobile Sales, Siebel
+Mobile Security
+Mobile Server
+Mobile Solutions, Siebel
+Modern Best Practice for Insurance
+Multitenant
+MySQL Database Service
+Net Services
+NetBeans
+Netra SPARC S7-2
+NetSuite
+Network Assurance Analytics
+Network Integrity
+Node.js
+NoSQL Database
+OLAP
+On Demand, Oracle On Demand
+Online Operations
+OnRamp
+Operations Monitor
+Operational Sourcing
+Ops Center Provisioning and Patch Automation (PDF)
+Ops Center Virtualization Management Pack (PDF)
+Oracle Data Management Platform
+Oracle Health Sciences goBalto Activate Cloud Service
+Oracle Health Sciences goBalto Analyze Cloud Service
+Oracle Health Sciences goBalto Select Cloud Service
+Oracle Applications Cloud
+Oracle Server X8-2
+Oracle Server X8-2L
+Oracle Ethernet Switch ES2-64
+Oracle Key Manager 3
+Oracle Linux
+Oracle OpenStack for Oracle Solaris
+Oracle Quad Port 10GBase-T Adapter
+Oracle Quad 10 Gb Ethernet Adapter or Oracle Dual 40 Gb Ethernet Adapter
+Oracle Server X8-8
+Oracle VM Server for x86
+Oracle VM Server for SPARC
+Oracle VM VirtualBox
+Oracle ZFS Storage ZS3-BA
+Orders and Inventory Management
+Order Management
+PL/SQL
+Partitioning
+Partner Analytics, Siebel
+Partner Management
+Partner Manager, Siebel
+Partner Portal, Siebel
+Partner Relationship Management
+Payables
+Payments
+Payroll, Human Capital Management
+PeopleSoft
+PeopleTools
+Performance Intelligence Center
+Performance Management, Fusion
+Plant and Equipment Maintenance Management
+Policy Management
+Portfolio Management
+Premier Support for Software, Oracle Support
+Premier Support for Systems, Oracle Support
+Primavera Analytics
+Primavera Cloud
+Primavera Gateway and Integration
+Primavera P6 Enterprise Project Portfolio Management
+Primavera Submittal Exchange
+Primavera Unifier
+Oracle Private Cloud Appliance (formerly Virtual Compute Appliance
+Oracle Process Cloud Service
+Procurement and Spend Analytics
+Procurement and Subcontract Management
+Procurement and Supplier Relationship Management
+Procurement Management
+Product and Catalog Management, Siebel
+Product Costing/Manufacturing Accounting
+Product Variants
+Project Billing
+Project Portfolio Analysis, Oracle Oracle E-Business Suite
+Project Portfolio Management
+Project Collaboration
+Project Contracts, Oracle Oracle E-Business Suite
+Project Costing
+Project Costing
+Project Costing
+Project Costing
+Project Management
+Project Planning and Control
+Project Portfolio Analysis
+Project Resource Management
+Projects
+Property Management
+Proposals
+Public Cloud
+Public Sector Customer Experience
+Quality of Service Management
+Quality. See Quality Management
+Query Optimization
+Quote and Order Lifecycle Management, Siebel
+Quoting
+R Advanced Analytics for Hadoop
+R Enterprise
+R Oracle
+R Technologies
+RAC One Node
+REST Data Services (ORDS)
+RMAN
+Rdb
+Real Application Clusters
+Real Application Clusters One Node
+Real Application Security
+Real Application Testing
+Real Estate Management
+Real User Experience Insight (PDF)
+Receivables
+Reports
+Requirements Planning
+Requirements Planning
+Responsys Campaign Management
+Revenue Management and Billing for Payment Processors
+Retail Allocation, Oracle Retail
+Retail and Consumer Goods Customer Experience
+Retail Category Management, Oracle Retail
+Retail Data Model
+Retail Extract, Transform, and Load, Oracle Retail
+Retail Invoice Matching, Oracle Retail
+Retail Merchandise Financial Planning, Oracle Retail
+Retail Merchandise Operations Management, Oracle Retail
+Retail Price Management, Oracle Retail
+Retail Price Optimization, Oracle Retail
+Retail Sales Audit, Oracle Retail
+Retail Store Inventory Management, Oracle Retail
+Retail Trade Management, Oracle Retail
+RightNow Social Experience, Oracle RightNow
+SCM. See Manufacturing and Supply Chain Management
+SQL
+SQL Connector for HDFS
+SQL Developer
+SQL Developer Data Modeler
+SRM. See Supply Management
+Sales
+Sales, Siebel
+Sales Analytics
+Sales Automation
+Sales CRM
+Sales. See Sales Force Automation
+Sales Force Automation
+Sales Force Automation
+Sales Order Management
+Sales Performance Management
+Sales Planning
+Scripting
+SecureFiles
+Secure Backup
+Secure Global Desktop
+Security
+Server Sync for Microsoft Exchange Server, Siebel
+Service (B2B)
+Service (B2C)
+Service Center
+Service
+Service
+Services Gatekeeper
+Service Analytics
+Service Contracts
+Service Management
+Service-Oriented Architecture (SOA)
+Session Border Controller
+Session Delivery Manager
+Session Router
+Sharding
+Snap Management Utility for Oracle Database
+Software Configuration Manager (SCM), Oracle Developer Suite
+Solaris 10
+Solaris 11
+Solaris Cluster
+SPARC M8-8 Server
+SPARC S7-2 Server
+SPARC S7-2L Server
+SPARC T8-1 Server
+SPARC T8-2 Server
+SPARC T8-4 Server
+Spares Management
+Spatial and Graph
+SQL Developer
+StorageTek 8 Gb Fibre Channel PCIe Host Bus Adapters
+StorageTek Automated Cartridge System Library Software (ACSLS) Manager Software
+StorageTek Dual 8 Gb Fibre Channel Dual GbE ExpressModule HBA
+StorageTek LTO Data Cartridges
+StorageTek LTO Tape Drives
+StorageTek SL150 Modular Tape Library
+StorageTek SL3000 Modular Library System
+StorageTek SL4000 Modular Library System
+StorageTek SL8500 Modular Library System
+StorageTek T10000 Data Cartridges
+StorageTek Tape Analytics Software
+StorageTek Ultra320 SCSI Host Bus Adapters
+Subscriber-Aware Load Balancer
+Subscription Management
+Sun Data Center InfiniBand Switch 36
+Oracle Dual Port 25 Gb Ethernet Adapter
+Sun Dual Port 10 GbE PCle 2.0 Networking Cards with Intel 82599 10 GbE Controller
+Sun Dual Port 10GBase-T Ethernet Networking Cards
+Sun Multithreaded 10 Gigabit Ethernet (10GbE) Networking Cards
+Sun Multithreaded Quad Gigabit Ethernet Networking Cards
+Sun Quad Port PCIe 2.0 Gigabit Ethernet Networking Cards
+Sun Storage 6 Gb SAS PCIe HBA
+Sun Storage 10GbE FCoE ExpressModule Converged Network Adapter
+Sun Storage 10 GbE FCoE PCIe Converged Network Adapter
+Sun Storage 16 Gb FC PCIe Universal HBA
+Sun Storage 16 Gb FC ExpressModule Universal HBA
+Sun Storage 16 Gb FC PCIe Universal HBA, Emulex
+Sun ZFS Appliance Monitor
+Supplier Relationship Management. See Supply Management
+Supplier Self Service
+Supply Chain and Order Management Analytics
+Supply Chain Management
+Supply Chain Management. See Manufacturing and Supply Chain Management
+Supply Chain Management Cloud
+Support, Oracle Support
+Oracle Systems
+Oracle Talari Platforms
+Oracle SD-WAN Edge
+Oracle SD-WAN Aware
+Taleo, Human Capital Management
+Talent Management, Human Capital Management
+TeleService
+Text
+Textura Payment Management
+Textura Pre-Qualification Management
+Time Accounting
+Time and Labor
+TimesTen Application-Tier Database Cache
+TimesTen In-Memory Database
+TopLink
+Trade Management
+Transaction Processing
+Transparent Data Encryption
+Transportation Management Cloud Service
+Tuxedo
+U.S. Federal Financial Analytics
+U.S. Payroll
+Unified Session Manager
+Unified Storage Management and Analytics Software
+Unity Customer Data Platform
+Universal Connection Pool (UCP) for Java
+Upgrades
+User Interaction
+User Productivity Kit
+Utilities Customer Care and Billing
+Utilities Customer Self Service
+Utilities Data Model
+Utilities DataRaker
+Utilities Load Analysis
+Utilities Meter Data Management
+Utilities Mobile Workforce Management
+Utilities Network Management System
+Utilities Operational Device Management
+Utilities Opower Peak Management Cloud Service
+Utilities Opower Customer Service Interface Cloud Service
+Utilities Opower Digital Self Service Cloud Service
+Utilities Opower Energy Efficiency Cloud Service
+Utilities Opower Proactive Alerts Cloud Service
+Utilities Smart Grid Gateway
+Utilities Work and Asset Management
+Virtual Private Database
+Virtualization
+Oracle Visual Builder, Low Code
+VM Server for SPARC
+VM Server for x86
+VM VirtualBox
+Warehouse Builder
+Warehouse Management Cloud Service
+Warehouse Management
+Warehouse Management
+Waveset
+WebCenter
+WebCenter Social
+WebCenter Content
+WebCenter Imaging
+WebCenter Portal
+WebCenter Sites
+WebLogic
+WebLogic Server Continuous Availability
+WebLogic Server Multitenant
+WebLogic Server Enterprise Edition
+WebLogic Server Standard Edition
+WebLogic Suite
+WebRTC Session Controller
+Wercker
+Windows
+Workforce Management, Human Capital Management
+Workforce Scheduling
+Workspace Manager
+XDK
+XML DB
+ZFS Storage Appliance
+Zero Data Loss Recovery Appliance X8
